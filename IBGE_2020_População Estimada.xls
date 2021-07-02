@@ -1,0 +1,45 @@
+Estados do Brasil;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+UF [-];Código [-];Gentílico [-];Governador [2019];Capital [2010];Área Territorial - km² [2020];População estimada - pessoas [2020];Densidade demográfica - hab/km² [2010];Matri?culas no ensino fundamental - matrículas [2020];IDH <span>I?ndice de desenvolvimento humano</span> [2010];Receitas realizadas - R$ (×1000) [2017];Despesas empenhadas - R$ (×1000) [2017];Rendimento mensal domiciliar per capita - R$ [2020];Total de veículos - veículos [2020];Sigla;Dose_1;Dose_2;Total_Doses;p_Dose_2;p_Dose_1
+Acre;12;acriano;GLADSON DE LIMA CAMELI;Rio Branco;164173,431;894470;4,47;156679;0,663;6632883,108;6084416,806;917;306258;AC;245459;72327;317786;8,09%;27,44%
+Alagoas;27;alagoano;JOSE RENAN VASCONCELOS CALHEIROS FILHO;Maceió;27830,656;3351543;112,33;464704;0,631;11950438,46;10460634,92;796;930933;AL;954769;345781;1300550;10,32%;28,49%
+Amapa;16;amapaense;ANTONIO WALDEZ GÓES DA SILVA;Macapá;142470,762;861773;4,69;134820;0,708;5396417,145;4224464,088;893;215330;AP;186730;65682;252412;7,62%;21,67%
+Amazonas;13;amazonense;WILSON MIRANDA LIMA;Manaus;1559167,878;4207714;2,23;700104;0,674;17328459,43;15324896,56;852;969722;AM;1154130;467915;1622045;11,12%;27,43%
+Bahia;29;baiano;RUI COSTA DOS SANTOS;Salvador;564760,427;14930634;24,82;1947177;0,66;50191003,24;45570160;965;4506825;BA;4164056;1525557;5689613;10,22%;27,89%
+Ceara;23;cearense;CAMILO SOBREIRA DE SANTANA;Fortaleza;148894,442;9187103;56,76;1165368;0,682;28420222,47;24608352,18;1028;3395382;CE;2185746;883439;3069185;9,62%;23,79%
+Distrito Federal;53;brasiliense;IBANEIS ROCHA BARROS JUNIOR;Brasília;5760,784;3055149;444,66;373032;0,824;23812211,27;21990464,68;2475;1934210;DF;865686;323940;1189626;10,60%;28,34%
+Espirito Santo;32;capixaba ou espírito-santense;JOSE RENATO CASAGRANDE;Vitória;46074,447;4064052;76,25;501920;0,74;19685616,74;14392338;1347;2078459;ES;1509773;516976;2026749;12,72%;37,15%
+Goias;52;goiano;RONALDO RAMOS CAIADO;Goiânia;340242,854;7113540;17,65;861291;0,735;37885335,17;24248380,34;1258;4203370;GO;2168620;704456;2873076;9,90%;30,49%
+Maranhao;21;maranhense;FLÁVIO DINO DE CASTRO E COSTA;São Luís;329651,495;7114598;19,81;1123973;0,639;18503261,35;17627170,76;676;1855570;MA;2240664;605116;2845780;8,51%;31,49%
+Mato Grosso;51;mato-grossense;MAURO MENDES FERREIRA;Cuiabá;903207,05;3526220;3,36;477717;0,725;23958528,84;18187363,27;1401;2322156;MT;905382;320316;1225698;9,08%;25,68%
+Mato Grosso do Sul;50;sul-mato-grossense ou mato-grossense-do-sul;REINALDO AZAMBUJA SILVA;Campo Grande;357147,994;2809394;6,86;392015;0,729;16396655,77;14506915,37;1488;1707671;MS;1052224;421364;1473588;15,00%;37,45%
+Minas Gerais;31;mineiro;ROMEU ZEMA NETO;Belo Horizonte;586513,993;21292666;33,41;2462047;0,731;97199823,16;98391669,16;1314;12053218;MG;6127329;2445554;8572883;11,49%;28,78%
+Para;15;paraense;HELDER ZAHLUTH BARBALHO;Belém;1245870,707;8690745;6,07;1394011;0,646;25849446,1;22533470,05;883;2229234;PA;1899404;694776;2594180;7,99%;21,86%
+Paraiba;25;paraibano;JOÃO AZEVEDO LINS FILHO;João Pessoa;56467,242;4039277;66,7;538748;0,658;13097005,32;10074700,04;892;1409592;PB;1211643;505959;1717602;12,53%;30,00%
+Parana;41;paranaense;CARLOS ROBERTO MASSA JUNIOR;Curitiba;199298,982;11516840;52,4;1407978;0,749;60163576,12;55534402,97;1508;8077413;PR;4115476;1312171;5427647;11,39%;35,73%
+Pernambuco;26;pernambucano;PAULO HENRIQUE SARAIVA CÂMARA;Recife;98067,88;9616621;89,62;1267292;0,673;35746028,97;33320486,44;897;3223404;PE;2475366;989738;3465104;10,29%;25,74%
+Piaui;22;piauiense;JOSÉ WELLINGTON BARROSO DE ARAÚJO DIAS;Teresina;251755,485;3281480;12,4;458077;0,646;12124215,62;9676736,318;859;1291415;PI;942693;322313;1265006;9,82%;28,73%
+Rio de Janeiro;33;fluminense;CLÁUDIO BOMFIM DE CASTRO E SILVA;Rio de Janeiro;43750,426;17366189;365,23;1967998;0,761;78488140,79;67965548,7;1723;7087797;RJ;5425379;2041982;7467361;11,76%;31,24%
+Rio Grande do Norte;24;potiguar ou norte-rio-grandense ou rio-grandense-do-norte;MARIA DE FATIMA BEZERRA;Natal;52809,601;3534165;59,99;448764;0,684;13527552,73;11330957,55;1077;1391338;RN;1118930;414512;1533442;11,73%;31,66%
+Rio Grande do Sul;43;gaúcho ou sul-rio-grandense;EDUARDO FIGUEIREDO CAVALHEIRO LEITE;Porto Alegre;281707,149;11422973;37,96;1269309;0,746;66397468,18;62476279,34;1759;7495615;RS;4497979;1818186;6316165;15,92%;39,38%
+Rondonia;11;rondoniense ou rondoniano;MARCOS JOSE ROCHA DOS SANTOS;Porto Velho;237765,347;1796460;6,58;252638;0,69;9122310,723;7085530,017;1169;1070952;RO;465560;153306;618866;8,53%;25,92%
+Roraima;14;roraimense;ANTONIO OLIVERIO GARCIA DE ALMEIDA;Boa Vista;223644,527;631181;2,01;104202;0,707;4419450,416;3384683,739;983;239393;RR;138366;60557;198923;9,59%;21,92%
+Santa Catarina;42;catarinense ou barriga-verde;CARLOS MOISÉS DA SILVA;Florianópolis;95730,684;7252502;65,27;876392;0,774;34696772,82;25595103,38;1632;5583126;SC;2245568;749348;2994916;10,33%;30,96%
+Sao Paulo;35;paulista;JOÃO AGRIPINO DA COSTA DORIA JUNIOR;São Paulo;248219,481;46289333;166,23;5414208;0,783;232822496,6;231982243,7;1814;30778960;SP;15973669;5254932;21228601;11,35%;34,51%
+Sergipe;28;sergipano ou sergipense;BELIVALDO CHAGAS SILVA;Aracaju;21938,184;2318822;94,36;322614;0,665;10145046,95;8494927,2;1028;836822;SE;652750;208224;860974;8,98%;28,15%
+Tocantins;17;tocantinense;MAURO CARLESSE;Palmas;277423,63;1590248;4,98;235752;0,699;10305099,01;8929456,438;1060;754206;TO;414726;143550;558276;9,03%;26,08%
+;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;
+Notas:;;;;;;;;;;;;;;;;;;;
+População estimada: Diferença de 783 pessoas entre os Estados do Piauí e Ceará com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 451 pessoas entre os Estados de Alagoas e Pernambuco com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 210 pessoas entre os Estados de Sergipe e Bahia com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual, Diferença de 2.603 pessoas entre o Estado de Goiás e o Distrito Federal com relação a Projeção da População para o Brasil e Unidades da Federação 2020, para o ano de 2020, em virtude de alteração de limites entre municípios na fronteira interestadual;;;;;;;;;;;;;;;;;;;
+Rendimento mensal domiciliar per capita: As estimativas de rendimento apresentadas atendem ao disposto na Lei Complementar 143/2013, que estabelece os novos critérios de rateio do Fundo de Participação dos Estados e do Distrito Federal - FPE e, em consequência, aos compromissos assumidos quanto à definição dos valores a serem repassados ao Tribunal de Contas da União - TCU para o cálculo dos fatores representativos do inverso do rendimento domiciliar per capita;;;;;;;;;;;;;;;;;;;
+Fontes:;;;;;;;;;;;;;;;;;;;
+Área Territorial: Área territorial brasileira 2020. Rio de Janeiro: IBGE, 2021;;;;;;;;;;;;;;;;;;;
+População estimada: IBGE, Diretoria de Pesquisas, Coordenação de População e Indicadores Sociais, Estimativas da população residente com data de referência 1o de julho de 2020;;;;;;;;;;;;;;;;;;;
+Densidade demográfica: IBGE, Censo Demográfico 2010, Área territorial brasileira. Rio de Janeiro: IBGE, 2011;;;;;;;;;;;;;;;;;;;
+IDH I?ndice de desenvolvimento humano : Programa das Nações Unidas para o Desenvolvimento - PNUD;;;;;;;;;;;;;;;;;;;
+Matri?culas no ensino fundamental: INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Sinopse Estatística da Educação Básica 2018. Brasília: Inep, 2019. Disponível em. Acesso em: 10 05. 2019.;;;;;;;;;;;;;;;;;;;
+Total de veículos: Ministério da Infraestrutura, Departamento Nacional de Trânsito - DENATRAN - 2018;;;;;;;;;;;;;;;;;;;
+Receitas realizadas: Contas anuais. Receitas orçamentárias realizadas (Anexo I-C) 2017 e Despesas orçamentárias empenhadas (Anexo I-D) 2017. In: Brasil. Secretaria do Tesouro Nacional, Siconfi: Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro. Brasília, DF, [2018]. Disponível em: https://siconfi.tesouro.gov.br/siconfi/pages/public/consulta_finbra/finbra_list.jsf. Acesso em: set. 2018;;;;;;;;;;;;;;;;;;;
+Despesas empenhadas: Contas anuais. Receitas orçamentárias realizadas (Anexo I-C) 2017 e Despesas orçamentárias empenhadas (Anexo I-D) 2017. In: Brasil. Secretaria do Tesouro Nacional, Siconfi: Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro. Brasília, DF, [2018]. Disponível em: https://siconfi.tesouro.gov.br/siconfi/pages/public/consulta_finbra/finbra_list.jsf. Acesso em: set. 2018;;;;;;;;;;;;;;;;;;;
+Rendimento mensal domiciliar per capita: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua - PNAD Contínua - 2020;;;;;;;;;;;;;;;;;;;
