@@ -1,4 +1,4 @@
-Municipio,Code_IBGE,UF,Regiao,Fabricante,Doses_Aplicadas,Dose_1,Dose_2
+Municipio,Code_IBGE,UF,Regiao,Fabricante,Total_Doses,Dose_1,Dose_2
 Abadia De Goiás,520005,GO,Centro-Oeste,BUTANTAN/SINOVAC,2713,1434,1279
 Abadia De Goiás,520005,GO,Centro-Oeste,FIOCRUZ/ASTRAZENECA,2376,2269,107
 Abadia De Goiás,520005,GO,Centro-Oeste,PFIZER/BIONTECH,176,176,0
